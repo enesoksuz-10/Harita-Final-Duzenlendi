@@ -1,0 +1,39 @@
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.deps.json
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.pdb
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.AssemblyReference.cache
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfoInputs.cache
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfo.cs
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CopyComplete
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.pdb
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.deps.json
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.pdb
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.AssemblyReference.cache
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfoInputs.cache
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfo.cs
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CoreCompileInputs.cache
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CopyComplete
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.pdb
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.deps.json
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.DataAccess.pdb
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.AssemblyReference.cache
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfoInputs.cache
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfo.cs
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CopyComplete
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.DataAccess\obj\Debug\netcoreapp3.1\BelsisHarita.DataAccess.pdb

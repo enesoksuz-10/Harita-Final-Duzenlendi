@@ -1,0 +1,10 @@
+C:\BelsisHarita\BelsisHarita.Entities\bin\Release\netcoreapp3.1\BelsisHarita.Entities.deps.json
+C:\BelsisHarita\BelsisHarita.Entities\bin\Release\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\BelsisHarita\BelsisHarita.Entities\bin\Release\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.csproj.AssemblyReference.cache
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfoInputs.cache
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfo.cs
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.csproj.CoreCompileInputs.cache
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\BelsisHarita\BelsisHarita.Entities\obj\Release\netcoreapp3.1\BelsisHarita.Entities.pdb

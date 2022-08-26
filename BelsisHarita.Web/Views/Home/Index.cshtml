@@ -1,0 +1,131 @@
+﻿@using Newtonsoft.Json;
+@model List<BelsisHarita.Entities.Harita>;
+@{
+
+
+    ViewData["Title"] = "Home Page";
+    var kayitlar = ViewData["tumkayitlar"];
+    var toplamKayit = ViewData["kayitlarCount"];
+    int sira = 0;
+}
+
+
+    <div style="width: 1100px; margin-left: 14px; height: 60px; background-color: #087a82;  "> <img src="picture.png"
+            style="margin-top: px; margin-left: 10px;" alt="">
+
+    </div>
+    <h1
+        style="color: white; margin-top: -48px; margin-left: 85px; font-size: 30px; font-family: 'Times New Roman', Times, serif;">
+        Belsis Yazılım</h1>
+
+    <br>
+    <div id="map" class="map"></div>
+    <br>
+    <form style="margin-top: -13px;" id="options-form" autocomplete="off">
+        <div class="radio">
+            <label>
+                <button
+                    style=" margin-top: -4px; margin-left: -5px; width: 130px;height: 30px; width: 120px; font-size: 14px;"
+                    type="button" class="btn btn-success">
+                    <p style="margin-top: -2px;">Geometry type:</p>
+
+                </button>
+            </label>
+            <select
+                style="background-color: rgb(255, 81, 0); width: 130px; height: 30px; text-align: center; color: white; font-size: 12px; border: red;"
+                name="draw-type" id="draw-type" onchange="DrawTypeSelect(this)">
+                <option style="color: white;" value="Point">Point</option>
+                <option style="color: white;" value="LineString">LineString</option>
+                <option style="color: white;" value="Polygon">Polygon</option>
+                <option style="color: white;" value="Circle">Circle</option>
+            </select>
+            <button
+                style="color: white; background-color: rgb(255,81,0); border: red; width: 60px; height: 30px; font-size: 12px;"
+                id="myBtn" type="button">Edit</button>
+        </div>
+        <div class="radio"></div>
+    </form>
+    <div class="row">
+    <table id="tblCizimler" class="table table-bordered" style="width:500px">
+        <thead>
+            <tr>
+                <th>Şehir</th>
+                <th>İlçe</th>
+                <th>Mahalle</th>
+                <th>Draw Type</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Sehir</td>
+                    <td>@item.Ilce</td>
+                    <td>@item.Mahalle</td>
+                    <td>@item.GeoType</td>
+                    <td>
+                        <a href="javascript:void(0)" class="btn btn-sm btn-success btnDuzenle" data-id="@item.Id">Düzenle</a>
+                        <a href="javascript:void(0)" class="btn btn-sm btn-danger btnRotaSil" data-index="@sira.ToString()" data-id="@item.Id">Sil</a>
+                    </td>
+                </tr>
+
+                sira++;
+
+            }
+        </tbody>
+    </table>
+    </div>
+    <!-- The Modal -->
+
+    <div id="myModal" class="modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
+        <div class="vertical-alignment-helper">
+            <div class="modal-dialog vertical-align-center">
+                <div style="width: 1000px; margin-left: -250px;" class="vertical-alignment-helper">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 style="margin-left: 150px; " class="modal-title" id="myModalLabel">Parsel Bilgilerini
+                                Giriniz</h4>
+                            <button id="mcikis" type="button" class="close"
+                                data-dismiss="modal" aria-label="Close">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <form role="form" action="" class="form-horizontal">
+                                        <input type="hidden" name="haritaID" id="haritaID" value="0" />
+                                        <div class="form-group">
+                                            <label class="control-label col-xs-3" for="sehir">Şehir</label>
+                                            <div class="col-xs-5">
+                                                <input type="text" id="sehir" name="sehir" class="form-control" value="">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="control-label col-xs-3" for="ilce">İlçe</label>
+                                            <div class="col-xs-5">
+                                                <input type="text" id="ilce" name="ilce" class="form-control" value="">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="control-label col-xs-3" for="mahalle">Mahalle</label>
+                                            <div class="col-xs-5">
+                                                <input type="text" id="mahalle" name="mahalle" class="form-control" value="">
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <button
+                                                style="height: 35px; background-color:  rgb(61,190,61); border: 0px; color: white; font-size: 14px;" id="btnKaydet" type="button">Parseli Kaydet</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<script>
+var kayitlarJson;
+</script>

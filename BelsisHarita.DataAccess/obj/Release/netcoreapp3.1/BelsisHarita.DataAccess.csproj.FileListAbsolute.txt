@@ -1,0 +1,13 @@
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Release\netcoreapp3.1\BelsisHarita.DataAccess.deps.json
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Release\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Release\netcoreapp3.1\BelsisHarita.DataAccess.pdb
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Release\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\BelsisHarita\BelsisHarita.DataAccess\bin\Release\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.csproj.AssemblyReference.cache
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfoInputs.cache
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.AssemblyInfo.cs
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CoreCompileInputs.cache
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.csproj.CopyComplete
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.dll
+C:\BelsisHarita\BelsisHarita.DataAccess\obj\Release\netcoreapp3.1\BelsisHarita.DataAccess.pdb

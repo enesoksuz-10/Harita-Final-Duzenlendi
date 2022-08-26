@@ -1,0 +1,30 @@
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.deps.json
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.csproj.AssemblyReference.cache
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfoInputs.cache
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfo.cs
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\Users\YASAR\source\repos\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\BelsisHarita\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.deps.json
+C:\BelsisHarita\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\BelsisHarita\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.csproj.AssemblyReference.cache
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfoInputs.cache
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfo.cs
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.csproj.CoreCompileInputs.cache
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\BelsisHarita\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.deps.json
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\bin\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.csproj.AssemblyReference.cache
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfoInputs.cache
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.AssemblyInfo.cs
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.dll
+C:\Users\YASAR\Desktop\Yeni klasör (4)\BelsisHarita.Entities\obj\Debug\netcoreapp3.1\BelsisHarita.Entities.pdb
